@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0039-combination-sum) |
 | [0912-sort-an-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0912-sort-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2596-check-knight-tour-configuration) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0027-remove-element) |
 ## Depth-First Search
 |  |
 | ------- |
