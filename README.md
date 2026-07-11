@@ -71,4 +71,12 @@
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2596-check-knight-tour-configuration) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
