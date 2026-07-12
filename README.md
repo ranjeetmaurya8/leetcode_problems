@@ -55,6 +55,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0027-remove-element) |
+| [0141-linked-list-cycle](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 ## Depth-First Search
 |  |
@@ -75,10 +76,15 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
