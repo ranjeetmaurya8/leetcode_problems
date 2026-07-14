@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [1025-divisor-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -122,4 +123,5 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
