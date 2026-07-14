@@ -108,6 +108,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0069-sqrtx) |
 | [1025-divisor-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -117,4 +118,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1025-divisor-game) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
