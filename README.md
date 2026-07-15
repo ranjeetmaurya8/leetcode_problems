@@ -114,6 +114,7 @@
 | [0367-valid-perfect-square](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1025-divisor-game) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Brainteaser
 |  |
 | ------- |
@@ -132,4 +133,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
