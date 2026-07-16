@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0066-plus-one) |
 | [0496-next-greater-element-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0912-sort-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2596-check-knight-tour-configuration) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -79,6 +80,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0682-baseball-game) |
 | [2596-check-knight-tour-configuration](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2596-check-knight-tour-configuration) |
 ## Linked List
 |  |
@@ -146,6 +148,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0901-online-stock-span) |
 ## Design
 |  |
