@@ -14,6 +14,7 @@
 | [0912-sort-an-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0912-sort-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2596-check-knight-tour-configuration) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0912-sort-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0633-sum-of-square-numbers](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -83,6 +86,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0682-baseball-game) |
 | [2596-check-knight-tour-configuration](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2596-check-knight-tour-configuration) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -122,6 +126,7 @@
 | [0633-sum-of-square-numbers](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
 |  |
 | ------- |
@@ -144,6 +149,7 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
