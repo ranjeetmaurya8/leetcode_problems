@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0912-sort-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2596-check-knight-tour-configuration) |
@@ -156,6 +157,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0901-online-stock-span) |
 ## Design
@@ -168,6 +170,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
