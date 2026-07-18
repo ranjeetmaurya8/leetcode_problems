@@ -17,6 +17,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2596-check-knight-tour-configuration) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0912-sort-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0682-baseball-game) |
 | [2596-check-knight-tour-configuration](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2596-check-knight-tour-configuration) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
@@ -135,6 +138,7 @@
 | [1952-three-divisors](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2413-smallest-even-multiple) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
