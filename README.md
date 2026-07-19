@@ -29,6 +29,7 @@
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | [0503-next-greater-element-ii](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
 | ------- |
@@ -192,8 +194,13 @@
 | [0496-next-greater-element-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0901-online-stock-span) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
