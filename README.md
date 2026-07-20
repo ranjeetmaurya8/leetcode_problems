@@ -14,6 +14,7 @@
 | [0503-next-greater-element-ii](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0912-sort-an-array) |
+| [1260-shift-2d-grid](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2596-check-knight-tour-configuration) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -89,11 +90,13 @@
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [2596-check-knight-tour-configuration](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0682-baseball-game) |
+| [1260-shift-2d-grid](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [2596-check-knight-tour-configuration](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2596-check-knight-tour-configuration) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
