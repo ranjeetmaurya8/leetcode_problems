@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0066-plus-one) |
@@ -157,6 +158,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0633-sum-of-square-numbers) |
