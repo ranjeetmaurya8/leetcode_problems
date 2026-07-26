@@ -13,6 +13,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1260-shift-2d-grid) |
@@ -45,6 +46,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0912-sort-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -138,6 +140,7 @@
 | [0066-plus-one](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0367-valid-perfect-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
