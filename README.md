@@ -17,6 +17,7 @@
 | [0682-baseball-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2596-check-knight-tour-configuration) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -49,12 +50,14 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
