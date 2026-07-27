@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0131-palindrome-partitioning) |
+| [0387-first-unique-character-in-a-string](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
@@ -70,6 +71,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
@@ -129,6 +131,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0496-next-greater-element-i) |
 ## Doubly-Linked List
 |  |
@@ -213,4 +216,8 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
