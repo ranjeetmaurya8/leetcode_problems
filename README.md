@@ -164,6 +164,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2413-smallest-even-multiple) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -187,6 +188,7 @@
 | ------- |
 | [1952-three-divisors](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
