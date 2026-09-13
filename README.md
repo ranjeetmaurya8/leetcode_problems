@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0035-search-insert-position) |
@@ -51,6 +52,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -83,6 +85,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
