@@ -77,7 +77,7 @@ public:
             if (!vis[i]) {
 
                 if (iscycledfs(i, vis, recpath, edges)) {
-                    return {};
+                    return ans;
                 }
             }
         }
