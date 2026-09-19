@@ -296,4 +296,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0141-linked-list-cycle) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
