@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0503-next-greater-element-ii) |
@@ -300,4 +301,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
