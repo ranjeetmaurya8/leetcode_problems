@@ -305,4 +305,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0136-single-number) |
+## Database
+|  |
+| ------- |
+| [0619-biggest-single-number](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
