@@ -146,6 +146,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
@@ -162,6 +163,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0367-valid-perfect-square) |
