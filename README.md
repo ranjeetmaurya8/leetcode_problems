@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0027-remove-element) |
@@ -36,6 +37,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0131-palindrome-partitioning](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0387-first-unique-character-in-a-string](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -311,4 +313,8 @@
 |  |
 | ------- |
 | [0619-biggest-single-number](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0619-biggest-single-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
