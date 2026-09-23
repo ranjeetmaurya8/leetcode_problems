@@ -13,6 +13,7 @@
 | [0042-trapping-rain-water](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0239-sliding-window-maximum) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [1025-divisor-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1025-divisor-game) |
 ## Divide and Conquer
