@@ -320,6 +320,7 @@
 ## Database
 |  |
 | ------- |
+| [0184-department-highest-salary](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0184-department-highest-salary) |
 | [0619-biggest-single-number](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0619-biggest-single-number) |
 ## Trie
 |  |
