@@ -48,6 +48,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -234,6 +235,7 @@
 | [0682-baseball-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -336,4 +338,8 @@
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
