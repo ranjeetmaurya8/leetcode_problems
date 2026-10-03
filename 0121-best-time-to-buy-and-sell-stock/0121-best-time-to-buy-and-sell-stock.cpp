@@ -10,6 +10,6 @@ public:
          }
          bestbuy = min(bestbuy , prices[i]);
        }
-       return maxprofit;
+       return maxprofit+0;
     }
 };
