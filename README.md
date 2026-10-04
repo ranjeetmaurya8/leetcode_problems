@@ -118,6 +118,7 @@
 | [0210-course-schedule-ii](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0210-course-schedule-ii) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0572-subtree-of-another-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -126,6 +127,7 @@
 | [0100-same-tree](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [2596-check-knight-tour-configuration](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
 |  |
@@ -307,6 +309,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
@@ -345,4 +348,8 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
