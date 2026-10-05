@@ -28,6 +28,7 @@
 | [1260-shift-2d-grid](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1470-shuffle-the-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2596-check-knight-tour-configuration) |
@@ -310,6 +311,7 @@
 | [0207-course-schedule](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -352,4 +354,21 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
