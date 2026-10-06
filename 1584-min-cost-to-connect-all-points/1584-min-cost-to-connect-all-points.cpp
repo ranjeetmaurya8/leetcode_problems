@@ -6,35 +6,36 @@ public:
     }
     int minCostConnectPoints(vector<vector<int>>& points) {
         int n = points.size();
-        // min heap priority queue
+        // min heap
         priority_queue<pair<int, int>, vector<pair<int, int>>,
                        greater<pair<int, int>>>
             pq;
-        vector<bool> mstset(n, false);
 
+        vector<bool> mstset(n, false);
         int mstcost = 0;
-        pq.push({0, 0}); // wt ,node
+        pq.push({0, 0});
 
         while (pq.size() > 0) {
-
             auto p = pq.top();
-             pq.pop();
+            pq.pop();
+
             int wt = p.first;
             int node = p.second;
 
-
             if (mstset[node])
                 continue;
+
             mstset[node] = true;
+
             mstcost += wt;
 
             for (int i = 0; i < n; i++) {
                 if (!mstset[i]) {
-                    int edgewt = mandist(points, node, i);
-                    pq.push({edgewt , i});
+                    int edgeWT = mandist(points, node, i);
+                    pq.push({edgeWT, i});
                 }
             }
         }
-         return mstcost;
+        return mstcost;
     }
 };
