@@ -48,6 +48,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0131-palindrome-partitioning](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0387-first-unique-character-in-a-string](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -240,6 +241,7 @@
 | [0503-next-greater-element-ii](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -265,6 +267,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0134-gas-station) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Queue
 |  |
@@ -349,6 +352,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Union-Find
 |  |
