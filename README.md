@@ -58,6 +58,7 @@
 | [0042-trapping-rain-water](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0131-palindrome-partitioning) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1025-divisor-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1025-divisor-game) |
 ## Divide and Conquer
 |  |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0239-sliding-window-maximum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -122,6 +124,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0572-subtree-of-another-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2596-check-knight-tour-configuration](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -130,6 +133,7 @@
 | [0207-course-schedule](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2596-check-knight-tour-configuration](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
 |  |
@@ -314,6 +318,7 @@
 | [0207-course-schedule](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -375,4 +380,8 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
