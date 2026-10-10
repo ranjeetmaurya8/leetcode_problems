@@ -47,7 +47,7 @@ public:
         vector<vector<int>> bridges;
 
         for (int i = 0; i < n; i++) {
-            if (dt[1] == -1) {
+            if (dt[i] == -1) {
                 dfs(i, -1, adj, bridges);
             }
         }
