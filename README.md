@@ -125,6 +125,7 @@
 | [0547-number-of-provinces](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0572-subtree-of-another-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1192-critical-connections-in-a-network](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1192-critical-connections-in-a-network) |
 | [2596-check-knight-tour-configuration](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -319,6 +320,7 @@
 | [0210-course-schedule-ii](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1192-critical-connections-in-a-network](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1192-critical-connections-in-a-network) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -384,4 +386,12 @@
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
