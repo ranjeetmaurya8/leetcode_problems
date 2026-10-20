@@ -114,6 +114,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0633-sum-of-square-numbers](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2396-strictly-palindromic-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
@@ -200,6 +201,7 @@
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1952-three-divisors](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2396-strictly-palindromic-number](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2413-smallest-even-multiple) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -212,6 +214,7 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
