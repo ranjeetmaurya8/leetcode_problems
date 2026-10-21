@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -193,6 +194,7 @@
 | [0050-powx-n](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0633-sum-of-square-numbers) |
@@ -399,4 +401,8 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1192-critical-connections-in-a-network) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
