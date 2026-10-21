@@ -5,16 +5,20 @@ public:
     int climbStairs(int n) {
 
         if(n==1 || n ==2)  return n;
-      vector<int> dp(n+1 );
-    
-      dp[1] =1 ;
-      dp[2] = 2;
+        
 
-      for(int i =3 ; i<=n ;i++){
-      dp[i] = dp[i-1] + dp[i-2];
+        int prev2 = 1 ; // n-2
+        int prev1 = 2 ; // n-1
 
-      }
-      return dp[n];
+        int result = prev1;
+
+        for(int i=3; i<=n ;i++){
+            result= prev1 + prev2;
+            prev2 = prev1;
+            prev1 = result;
+        }
+
+        return result;
     }
 
 };
