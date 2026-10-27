@@ -26,6 +26,7 @@
 | [0503-next-greater-element-ii](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0682-baseball-game) |
+| [0746-min-cost-climbing-stairs](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -64,6 +65,7 @@
 | [0131-palindrome-partitioning](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0213-house-robber-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1025-divisor-game](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1025-divisor-game) |
 ## Divide and Conquer
