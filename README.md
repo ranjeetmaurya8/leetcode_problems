@@ -411,4 +411,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0070-climbing-stairs) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
