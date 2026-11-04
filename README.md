@@ -36,6 +36,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2596-check-knight-tour-configuration) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2965-find-missing-and-repeated-values](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -150,6 +151,7 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [2596-check-knight-tour-configuration](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2596-check-knight-tour-configuration) |
+| [2965-find-missing-and-repeated-values](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -189,6 +191,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2965-find-missing-and-repeated-values](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -212,6 +215,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2413-smallest-even-multiple) |
+| [2965-find-missing-and-repeated-values](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
