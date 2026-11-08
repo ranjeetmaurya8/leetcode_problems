@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 ## String
 |  |
@@ -423,4 +425,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0069-sqrtx) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
