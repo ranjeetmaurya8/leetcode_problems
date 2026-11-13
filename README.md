@@ -218,6 +218,7 @@
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1952-three-divisors](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2235-add-two-integers](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2413-smallest-even-multiple) |
 | [2965-find-missing-and-repeated-values](https://github.com/ranjeetmaurya8/leetcode_problems/tree/master/2965-find-missing-and-repeated-values) |
